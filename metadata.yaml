@@ -1,0 +1,33 @@
+_repo: Active-Service_2364
+creator:
+  author:
+    agent_name: Crane, Stephen
+    alias: Smith, Johnston
+    birthdate: 1871
+    deathdate: 1900
+    gutenberg_agent_id: '55'
+    url: http://www.gutenberg.org/2009/agents/55
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Crane
+description: How far would a father go to keep his daughter from marrying the wrong
+  man? Rufus Coleman, the respected editor of the New York Eclipse, plans to marry
+  Marjory Wainwright. Yet to her father, Professor Wainwright, Rufus is still the
+  wastrel that he thought him to be as a student in college. To thwart the marriage
+  the professor drags Marjory off with him and a group of students on a summer tour
+  of Greece. Suddenly war erupts between Turkey and Greece! Will Rufus arrive in time
+  to save the group? Will he redeem himself in the professor's eyes? Will the strife
+  of war and trial of separation overcome the love between Rufus and Marjory?
+gutenberg_issued: '2000-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2364'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+title: Active Service
+url: http://www.gutenberg.org/ebooks/2364
