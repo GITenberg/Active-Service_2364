@@ -1,5 +1,8 @@
 _repo: Active-Service_2364
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Crane, Stephen
@@ -17,6 +20,8 @@ description: How far would a father go to keep his daughter from marrying the wr
   of Greece. Suddenly war erupts between Turkey and Greece! Will Rufus arrive in time
   to save the group? Will he redeem himself in the professor's eyes? Will the strife
   of war and trial of separation overcome the love between Rufus and Marjory?
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2364#Active-Service
 gutenberg_issued: '2000-10-01'
 gutenberg_type: Text
 identifiers:
